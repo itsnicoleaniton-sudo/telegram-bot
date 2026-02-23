@@ -5,7 +5,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 
 # ---------------- Config ----------------
-BOT_TOKEN = "7998865648:AAGMXJTpZbgjIHCefV-dcsqdNtPsgQTvqi4"  # <-- Put your bot token here
+BOT_TOKEN = "7998865648:AAGMXJTpZbgjIhjuefV-dcsqdNtPsgQTvqi4"  # <-- Put your bot token here
 ADMIN_IDS = [6135998892]  # <-- Replace with your Telegram ID for admin
 SUPPORT_CONTACT = "@openw1ndows"
 
@@ -255,4 +255,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
